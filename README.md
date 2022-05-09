@@ -8,6 +8,7 @@ Está aplicação foi desenvolvida acompanhando a edição 8 da NLW - Next Level
 
 ## O que aprendemos nela?
 ##### Nela apredemos a como criar uma aplicação utilizando o React js, Node js e React Native.
+##### Utilização de Typescript
 ##### Conceitos do React - Componente e propriedade.
 ##### Fluxo de um SPA.
 ##### Trabalhando com Tailwind - instalação e usabilidade.
